@@ -1,11 +1,9 @@
-import { User } from "./User";
-import { Company } from "./Company";
-
-interface Marker{
-  location:{
+export interface Marker {
+  location: {
     lat: number;
     lng: number;
-  }
+  };
+  getContent(): string;
 }
 
 export class CustomMap {
@@ -19,18 +17,25 @@ export class CustomMap {
         lat: 0,
         lng: 0,
       },
-      mapId: "COMPANY_AND_USER_MAP"
+      mapId: "COMPANY_AND_USER_MAP",
     });
   }
 
   addMarker(marker: Marker): void {
-    new google.maps.marker.AdvancedMarkerElement({
+    const mark = new google.maps.marker.AdvancedMarkerElement({
       map: this.googleMap,
       position: {
         lat: marker.location.lat,
         lng: marker.location.lng,
       },
-      title: "Marker"
+      title: "Marker",
+    });
+
+    mark.addEventListener('click', () => {
+      const infoWindow = new google.maps.InfoWindow({
+        content: marker.getContent(),
+      });
+      infoWindow.open(this.googleMap, mark);
     });
   }
 }
