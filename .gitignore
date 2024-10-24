@@ -1,0 +1,15 @@
+#Logs
+package-lock.json
+*.log
+*.min.js
+
+# Dependency directories
+node_modules/
+
+# Parcel related files
+.parcel-cache/
+.cache/
+dist/
+
+# Optional npm cache directory
+.npm
