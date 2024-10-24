@@ -1,14 +1,4 @@
 5557
-115C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\fr_CH\address\secondary_address.js133732152875002247 0
-109C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\fr_CH\address\country.d.ts133732152880814990 0
-93C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\vi\address133732152883184619 1
-50C:\Users\ewana\Desktop\Company-map\dist\index.html133742516296361942 0
-108C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\fr\company\name_patterns.js133732152874761446 0
-101C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\en\animal\cat.d.ts133732152879361958 0
-97C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\el\team\index.js133732152873360703 0
-47C:\Users\ewana\Desktop\Company-map\package.json133733007945039188 0
-107C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\lv\phone_number\formats.js133732152876082349 0
-82C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\modules133732152883481242 1
 90C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\lv\date133732152881727073 1
 85C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\ko133732152881657027 1
 105C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\en\cell_phone\formats.js133732152873473733 0
@@ -17,6 +7,7 @@
 89C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\pl\lorem133732152876632348 1
 80C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\locale\en_IND.js133732152883531757 0
 104C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\modules\mersenne\twister.d.ts133732152883461244 0
+52C:\Users\ewana\Desktop\Company-map\package-lock.json133733007945049224 0
 98C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\de\lorem\index.js133732152872998992 0
 113C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\nb_NO\commerce\department.d.ts133732152881881200 0
 93C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\fr\finance133732152880639373 1
@@ -26,7 +17,18 @@
 112C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\en_NG\phone_number\index.d.ts133732152880082735 0
 49C:\Users\ewana\Desktop\Company-map\src\Company.ts133732189337519288 0
 107C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\pt_PT\address\index.d.ts133732152882417635 0
-52C:\Users\ewana\Desktop\Company-map\package-lock.json133733007945049224 0
+108C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\fr\company\name_patterns.js133732152874761446 0
+101C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\en\animal\cat.d.ts133732152879361958 0
+97C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\el\team\index.js133732152873360703 0
+47C:\Users\ewana\Desktop\Company-map\package.json133733007945039188 0
+107C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\lv\phone_number\formats.js133732152876082349 0
+82C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\modules133732152883481242 1
+93C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\ko\address133732152881625703 1
+105C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\uk\company\prefix.d.ts133732152882963783 0
+76C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\locale\ja.js133732152883572320 0
+110C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\ge\address\default_country.js133732152875202258 0
+104C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\ur\finance\index.d.ts133732152883104620 0
+112C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\he\commerce\product_name.d.ts133732152881121308 0
 76C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\locale\it.js133732152883572320 0
 105C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\en_GH\name\first_name.js133732152873982244 0
 110C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\tr\commerce\department.d.ts133732152882887907 0
@@ -85,7 +87,7 @@
 113C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\tr\phone_number\area_code.d.ts133732152882920656 0
 76C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\locale\el.js133732152883510770 0
 108C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\zh_TW\address\street.d.ts133732152883301239 0
-51C:\Users\ewana\Desktop\Company-map\src\CustomMap.ts133742515693009047 0
+51C:\Users\ewana\Desktop\Company-map\src\CustomMap.ts133742521478876081 0
 110C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\ro\internet\free_email.d.ts133732152882527640 0
 108C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\mk\name\female_last_name.js133732152876161472 0
 113C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\uk\internet\domain_suffix.d.ts133732152882973782 0
@@ -104,7 +106,7 @@
 105C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\pt_PT\color\index.d.ts133732152882427637 0
 119C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\en_AU_ocker\address\street_name.d.ts133732152879758771 0
 76C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\locale\ko.js133732152883572320 0
-47C:\Users\ewana\Desktop\Company-map\src\index.ts133742515304336520 0
+47C:\Users\ewana\Desktop\Company-map\src\index.ts133742521608202495 0
 98C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\el\name\prefix.js133732152873350698 0
 108C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\nb_NO\word\adjective.d.ts133732152881933511 0
 104C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\zu_ZA\name\last_name.js133732152877900721 0
@@ -323,12 +325,6 @@
 79C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\locale\id_ID.js133732152883562277 0
 112C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\pt_BR\internet\domain_suffix.js133732152876752218 0
 110C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\en\address\city_prefix.d.ts133732152879321955 0
-93C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\ko\address133732152881625703 1
-105C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\uk\company\prefix.d.ts133732152882963783 0
-76C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\locale\ja.js133732152883572320 0
-110C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\ge\address\default_country.js133732152875202258 0
-104C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\ur\finance\index.d.ts133732152883104620 0
-112C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\he\commerce\product_name.d.ts133732152881121308 0
 104C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\lv\address\index.d.ts133732152881677074 0
 113C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\pt_BR\address\default_country.js133732152876702472 0
 85C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\faker.d.ts133732152878465138 0
@@ -569,8 +565,8 @@
 102C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\fa\lorem\index.d.ts133732152880482213 0
 89C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\modules\system133732152883471242 1
 101C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\modules\vehicle\index.d.ts133732152883481242 0
-94C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\mk\internet133732152881817075 1
 102C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\uk\name\suffix.d.ts133732152883003799 0
+94C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\mk\internet133732152881817075 1
 89C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\modules\unique133732152883481242 1
 98C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\en\app\version.js133732152873463243 0
 90C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\modules\vehicle133732152883481242 1
@@ -1121,8 +1117,8 @@
 112C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\en_ZA\phone_number\index.d.ts133732152880159900 0
 98C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\fr\animal\bear.js133732152874692306 0
 107C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\zh_CN\address\state.d.ts133732152883254623 0
-100C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\sv\name\name.d.ts133732152882842293 0
 112C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\zh_CN\address\state_abbr.d.ts133732152883254623 0
+100C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\sv\name\name.d.ts133732152882842293 0
 116C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\zh_CN\address\street_address.d.ts133732152883254623 0
 85C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locale\fr.js133732152872465758 0
 113C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\uk\name\female_first_name.d.ts133732152882983782 0
@@ -1130,6 +1126,9 @@
 106C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\de_CH\address\postcode.js133732152873158986 0
 114C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\en_IND\internet\free_email.d.ts133732152880012729 0
 115C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\zh_CN\address\street_suffix.d.ts133732152883254623 0
+115C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\fr_CH\address\secondary_address.js133732152875002247 0
+109C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\fr_CH\address\country.d.ts133732152880814990 0
+93C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\vi\address133732152883184619 1
 101C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\uk\company\suffix.js133732152877457466 0
 112C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\fr_CA\internet\domain_suffix.js133732152874962270 0
 96C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\types\locales\vi\cell_phone133732152883184619 1
@@ -3925,8 +3924,8 @@
 102C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\tr\name\first_name.js133732152877387362 0
 94C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\af_ZA\address133732152872545744 1
 91C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\esm\chunk-W7Z3VRYQ.mjs133732152878260507 0
-88C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\hu\word133732152875592284 1
 91C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\esm\chunk-WJNWABYE.mjs133732152878260507 0
+88C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\hu\word133732152875592284 1
 91C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\esm\chunk-WQ5WD4ZB.mjs133732152878260507 0
 105C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\mk\cell_phone\formats.js133732152876122273 0
 102C:\Users\ewana\Desktop\Company-map\node_modules\@faker-js\faker\dist\cjs\locales\fr_CH\animal\index.js133732152875041885 0
@@ -5556,3 +5555,4 @@
 61C:\Users\ewana\Desktop\Company-map\dist\index.377278e2.js.map133732187193313518 0
 57C:\Users\ewana\Desktop\Company-map\dist\index.b71e74eb.js133742515694888113 0
 61C:\Users\ewana\Desktop\Company-map\dist\index.b71e74eb.js.map133742515694988083 0
+50C:\Users\ewana\Desktop\Company-map\dist\index.html133742516296361942 0

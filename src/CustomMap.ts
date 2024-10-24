@@ -15,4 +15,26 @@ export class CustomMap {
       mapId: "COMPANY_AND_USER_MAP",
     });
   }
+  
+  addUserMarker(user: User): void {
+    new google.maps.marker.AdvancedMarkerElement({
+      map: this.googleMap,
+      position: {
+        lat: user.location.lat,
+        lng: user.location.lng,
+      },
+      title: "User"
+    });
+  }
+
+  addCompanyMarker(company: Company): void {
+    new google.maps.marker.AdvancedMarkerElement({
+      map: this.googleMap,
+      position: {
+        lat: company.location.lat,
+        lng: company.location.lng,
+      },
+      title: "Company"
+    });
+  }
 }
